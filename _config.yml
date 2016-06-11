@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Faysal Ishtiaq Rabby's CV 
+description: Faysal Ishtiaq Rabby's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://faysal-ishtiaq.github.io/resumecard
+url: https://faysal-ishtiaq.github.io/resumecard
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: 
 
 # Build settings
 markdown: kramdown
@@ -14,59 +14,57 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Faysal Ishtiaq Rabby
+  title: Student
+  address: Khulna, Bangladesh
+  email: f.i.rabby@gmail.com
+  link: http://faysal-ishtiaq.github.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: faysal-ishtiaq
+  linkedin: firabby
+  twitter: Faisal_Ishtiaq
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: Systway
+      location: Khulna, Bangladesh
+      title: Web Developer
       started: 2014
-      duration: (2014 - Present)
+      duration: (2014 - 2015)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
+      company: Lazy Few Apps
+      location: Dhaka, Bangladesh
+      title: Co-founder, Android Developer
+      started: 2015
+      duration: (October, 2015 - December, 2015)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      organization: Bogra Cantonment Public School And Colege
+      location: Bogra, Bangladesh
+      degree: Secondary School Certificate
+      major: Science
+      started: 2004
+      duration: (2004 - 2009)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - education2:
+      organization: Bogra Cantonment Public School And Colege
+      location: Bogra, Bangladesh
+      degree: Higher Secondary School Certificate
+      major: Science
+      started: 2009
+      duration: (2009 - 20011)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Bengali
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
       name: HTML
@@ -76,10 +74,10 @@ author:
       percentage: 90%
     - skill3:
       name: JavaScript
-      percentage: 70%
+      percentage: 80%
     - skill4:
       name: AngularJS
-      percentage: 70%
+      percentage: 50%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Java/Java SE
+      percentage: 50%
